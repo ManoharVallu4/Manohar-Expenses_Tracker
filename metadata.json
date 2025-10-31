@@ -1,0 +1,5 @@
+{
+  "name": "Money Expense Tracker",
+  "description": "A modern, clean, and responsive web app to track your income and expenses. Visualize your spending with interactive charts, manage transactions, and switch between light and dark modes for a personalized experience.",
+  "requestFramePermissions": []
+}
